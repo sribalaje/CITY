@@ -1,2 +1,7 @@
 Sri Balaje
+<<<<<<< HEAD
 GMAIL: msb.smarty@gmail.com
+=======
+
+MY password is 123
+>>>>>>> JOE
