@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Sri BGMAIL: msb.smarty@gmail.com
 
 
 what is git
+=======
+Sri Balaje
+GMAIL: msb.smarty@gmail.com
+MY password is 12
+>>>>>>> main
